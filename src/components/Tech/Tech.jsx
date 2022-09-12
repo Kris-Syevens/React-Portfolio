@@ -1,6 +1,6 @@
 import "./tech.css";
 
 const Tech = () => {
-  return <div>Tech</div>;
+  return <section id="tech">Tech</section>;
 };
 export default Tech;
