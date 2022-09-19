@@ -49,7 +49,13 @@ header {
   margin-top: 4rem;
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
-  padding: 5rem 1.5rem 1.5rem 1.5rem;
+  padding: 5rem 0 0;
+}
+
+.profile__pic img {
+  position: absolute;
+  bottom: 0;
+  width: 23rem;
 }
 
 /* ======= SCROLL DOWN ====== */
@@ -61,6 +67,14 @@ header {
   transform: rotate(90deg);
   font-weight: 300;
   font-size: 0.9rem;
+}
+
+/* =============== MEDIA QUERIES (LARGE VERTICAL DEVICES) ============ */
+
+@media screen and (min-height: 1200px) {
+  .container.header__container {
+    padding-top: 10rem;
+  }
 }
 
 /* =============== MEDIA QUERIES (MEDIUM DEVICES) ============ */
@@ -76,6 +90,7 @@ header {
 @media screen and (max-width: 600px) {
   header {
     height: 100vh;
+    /* height: 100%; */
   }
 
   .header__socials,

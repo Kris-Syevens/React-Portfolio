@@ -1,3 +1,7 @@
+#portfolio {
+  padding-top: 6rem;
+}
+
 .portfolio__container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -10,6 +14,7 @@
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
+  position: relative;
 }
 
 .portfolio__item:hover {
@@ -23,13 +28,19 @@
 }
 
 .portfolio__item h3 {
-  margin: 1.2rem 0 2rem;
+  margin: 1.2rem 0 0.5rem;
+}
+
+.portfolio__item p {
+  margin: 0 0 5rem;
+  color: var(--color-light);
 }
 
 .portfolio__item-cta {
   display: flex;
   gap: 1rem;
-  margin-bottom: 1rem;
+  position: absolute;
+  bottom: 2rem;
 }
 
 /* =============== MEDIA QUERIES (MEDIUM DEVICES) ============ */

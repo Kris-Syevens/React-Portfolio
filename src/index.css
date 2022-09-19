@@ -40,7 +40,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/bg-texture.png);
+  /* background-image: url(../src/assets/bg-texture.png); */
 }
 
 /* =========== GENERAL STYLES ============= */
@@ -117,6 +117,16 @@ img {
   display: block;
   width: 100%;
   object-fit: cover;
+}
+
+.underline {
+  content: "";
+  width: 3px;
+  height: 4rem;
+  background: var(--color-primary);
+  transform: rotate(90deg);
+  align-self: center;
+  margin-top: 3rem;
 }
 
 /* =============== MEDIA QUERIES (MEDIUM DEVICES) ============ */

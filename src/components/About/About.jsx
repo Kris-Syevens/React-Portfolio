@@ -1,13 +1,11 @@
 import "./about.css";
-import aboutImage from "../../assets/me-about.jpg";
-import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
-import { VscFolderLibrary } from "react-icons/vsc";
+import aboutImage from "../../assets/logo-ks.png";
+
+import Underline from "../utilities/Underline";
 
 const About = () => {
   return (
     <section id="about">
-      <h5>Get To Know</h5>
       <h2>About Me</h2>
 
       <div className="container about__container">
@@ -18,37 +16,25 @@ const About = () => {
         </div>
 
         <div className="about__content">
-          <div className="about__cards">
-            <article className="about__card">
-              <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>3+ Years</small>
-            </article>
-
-            <article className="about__card">
-              <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
-            </article>
-
-            <article className="about__card">
-              <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
-            </article>
-          </div>
-
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
-            maxime modi tempore cumque a quisquam aspernatur! Suscipit quod
-            corrupti, numquam repellat odio voluptates distinctio cumque nobis
-            ea velit deserunt cum?
+            My passion for software engineering began when I discovered a need
+            to help people connect with technology. Having worked in the
+            financial services industry and within culturally diverse
+            communities, I realized a great disparity in available resources for
+            Spanish-only speakers compared to English speakers. Taking matters
+            into my own hands, I sought the necessary knowledge and built an
+            online mortgage application website with its content in Spanish to
+            help the needs of my community. During my learning journey, I
+            uncovered countless technology and tools available that would enable
+            me to solve some of the world’s largest problems. I haven’t stopped
+            learning and never looked back.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Chat
           </a>
         </div>
       </div>
+      <Underline />
     </section>
   );
 };

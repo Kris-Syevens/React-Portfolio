@@ -1,4 +1,4 @@
-import IMG1 from "./portfolio1.jpg";
+import IMG1 from "./portfolio1.png";
 import IMG2 from "./portfolio2.jpg";
 import IMG3 from "./portfolio3.jpg";
 import IMG4 from "./portfolio4.jpg";

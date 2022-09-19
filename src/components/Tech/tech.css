@@ -1,3 +1,10 @@
+#tech {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .tech__container {
   display: grid;
   grid-template-columns: 1fr 1fr;

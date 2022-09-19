@@ -1,6 +1,6 @@
 import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
-import { FaTwitter, FaWhatsapp } from "react-icons/fa";
+import { FaTwitter, FaLinkedin } from "react-icons/fa";
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 
@@ -31,7 +31,6 @@ const Contact = () => {
 
   return (
     <section id="contact">
-      <h5>Get In Touch</h5>
       <h2>Contact Me</h2>
 
       <div className="container contact__container">
@@ -48,20 +47,24 @@ const Contact = () => {
             <FaTwitter className="contact__option-icon" />
             <h4>Direct Message</h4>
             <h5>@kris_syevens</h5>
-            <a href="https://twitter.com" target="_blank" rel="noreferrer">
+            <a
+              href="https://twitter.com/kris_syevens"
+              target="_blank"
+              rel="noreferrer"
+            >
               DM Via Twitter
             </a>
           </article>
           <article className="contact__option">
-            <FaWhatsapp className="contact__option-icon" />
-            <h4>WhatsApp</h4>
-            <h5>+123456789</h5>
+            <FaLinkedin className="contact__option-icon" />
+            <h4>Direct Message</h4>
+            <h5>@syevens</h5>
             <a
-              href="https://api.whatsapp.com/send?phone+123456789"
+              href="https://www.linkedin.com/in/syevens/"
               target="_blank"
               rel="noreferrer"
             >
-              Send A Message
+              DM Via LinkedIn
             </a>
           </article>
         </div>
