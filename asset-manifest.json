@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.13c2369e.css",
+    "main.js": "/React-Portfolio/static/js/main.3a469238.js",
+    "static/media/syevens-resume-v1.pdf": "/React-Portfolio/static/media/syevens-resume-v1.c9adbbe45e7fd8858af0.pdf",
+    "static/media/portfolio5.png": "/React-Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me.png": "/React-Portfolio/static/media/me.5f7ab128a0a1b1b0ebde.png",
+    "static/media/portfolio2.jpg": "/React-Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/React-Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio3.jpg": "/React-Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/React-Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/portfolio1.png": "/React-Portfolio/static/media/portfolio1.1ee87b60bc15a011a292.png",
+    "static/media/logo-ks.png": "/React-Portfolio/static/media/logo-ks.2c41de3a5e0417ace294.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.13c2369e.css.map": "/React-Portfolio/static/css/main.13c2369e.css.map",
+    "main.3a469238.js.map": "/React-Portfolio/static/js/main.3a469238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c2369e.css",
+    "static/js/main.3a469238.js"
+  ]
+}
