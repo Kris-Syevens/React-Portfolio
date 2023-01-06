@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.13c2369e.css",
-    "main.js": "/static/js/main.72da6325.js",
+    "main.css": "/static/css/main.9155bed0.css",
+    "main.js": "/static/js/main.b8493ea2.js",
     "static/media/syevens-resume-v1.pdf": "/static/media/syevens-resume-v1.c9adbbe45e7fd8858af0.pdf",
     "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/me.png": "/static/media/me.5f7ab128a0a1b1b0ebde.png",
@@ -12,11 +12,11 @@
     "static/media/portfolio1.png": "/static/media/portfolio1.1ee87b60bc15a011a292.png",
     "static/media/logo-ks.png": "/static/media/logo-ks.2c41de3a5e0417ace294.png",
     "index.html": "/index.html",
-    "main.13c2369e.css.map": "/static/css/main.13c2369e.css.map",
-    "main.72da6325.js.map": "/static/js/main.72da6325.js.map"
+    "main.9155bed0.css.map": "/static/css/main.9155bed0.css.map",
+    "main.b8493ea2.js.map": "/static/js/main.b8493ea2.js.map"
   },
   "entrypoints": [
-    "static/css/main.13c2369e.css",
-    "static/js/main.72da6325.js"
+    "static/css/main.9155bed0.css",
+    "static/js/main.b8493ea2.js"
   ]
 }
