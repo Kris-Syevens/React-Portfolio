@@ -25,8 +25,8 @@ const About = () => {
             into my own hands, I sought the necessary knowledge and built an
             online mortgage application website with its content in Spanish to
             help the needs of my community. During my learning journey, I
-            uncovered countless technology and tools available that would enable
-            me to solve some of the world’s largest problems. I haven’t stopped
+            uncovered countless tools and technologies that would enable me to
+            solve some of the world’s largest problems. I haven’t stopped
             learning and never looked back.
           </p>
           <a href="#contact" className="btn btn-primary">

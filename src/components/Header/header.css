@@ -41,7 +41,7 @@ header {
 /* ======= PROFILE PIC ====== */
 
 .profile__pic {
-  background: linear-gradient(var(--color-primary), transparent);
+  background: linear-gradient(var(--color-primary) 1%, transparent);
   width: 22rem;
   height: 30rem;
   position: absolute;
