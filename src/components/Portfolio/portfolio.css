@@ -8,6 +8,9 @@
   gap: 2.5rem;
 }
 
+.portfolio__content__wrapper {
+}
+
 .portfolio__item {
   background: var(--color-bg-variant);
   padding: 1.3rem;
@@ -15,6 +18,9 @@
   border: 1px solid transparent;
   transition: var(--transition);
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .portfolio__item:hover {
@@ -39,8 +45,6 @@
 .portfolio__item-cta {
   display: flex;
   gap: 1rem;
-  position: absolute;
-  bottom: 2rem;
 }
 
 /* =============== MEDIA QUERIES (MEDIUM DEVICES) ============ */
