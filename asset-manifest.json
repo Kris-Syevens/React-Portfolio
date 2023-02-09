@@ -1,22 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.12df5360.css",
-    "main.js": "/static/js/main.598f36b2.js",
-    "static/media/syevens-resume-v1.pdf": "/static/media/syevens-resume-v1.c9adbbe45e7fd8858af0.pdf",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "main.js": "/static/js/main.68ed1dab.js",
+    "static/media/syevens-resume.pdf": "/static/media/syevens-resume.0c6db9858e8c5924d4e9.pdf",
     "static/media/me.png": "/static/media/me.5f7ab128a0a1b1b0ebde.png",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/portfolio1.png": "/static/media/portfolio1.1ee87b60bc15a011a292.png",
+    "static/media/portfolio1.png": "/static/media/portfolio1.cd2d4cad7a04119027db.png",
+    "static/media/portfolio2.png": "/static/media/portfolio2.e1c1b4cbd1b9211be87e.png",
     "static/media/logo-ks.png": "/static/media/logo-ks.2c41de3a5e0417ace294.png",
+    "static/media/portfolio3.png": "/static/media/portfolio3.1b2b8f86d5ca1053e8ae.png",
     "index.html": "/index.html",
     "main.12df5360.css.map": "/static/css/main.12df5360.css.map",
-    "main.598f36b2.js.map": "/static/js/main.598f36b2.js.map"
+    "main.68ed1dab.js.map": "/static/js/main.68ed1dab.js.map"
   },
   "entrypoints": [
     "static/css/main.12df5360.css",
-    "static/js/main.598f36b2.js"
+    "static/js/main.68ed1dab.js"
   ]
 }
